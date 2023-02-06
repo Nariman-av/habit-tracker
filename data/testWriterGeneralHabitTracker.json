@@ -1,0 +1,42 @@
+{"HabitTracker": {
+    "goodHabits": [
+        {
+            "note": "15 minute walk every afternoon",
+            "priorityLevel": "LOW",
+            "name": "Walk",
+            "id": 1
+        },
+        {
+            "note": "read a thoughtful book before sleep",
+            "priorityLevel": "MEDIUM",
+            "name": "Read Books",
+            "id": 2
+        },
+        {
+            "note": "water balcony's plants",
+            "priorityLevel": "HIGH",
+            "name": "Water Plants",
+            "id": 3
+        }
+    ],
+    "badHabits": [
+        {
+            "note": "less fast food, more home cooked meals",
+            "priorityLevel": "HIGH",
+            "name": "Fast Food",
+            "id": 1
+        },
+        {
+            "note": "limit to 1 hour a day",
+            "priorityLevel": "MEDIUM",
+            "name": "Social Media",
+            "id": 2
+        },
+        {
+            "note": "limit candy to 1 piece a day",
+            "priorityLevel": "MEDIUM",
+            "name": "Candy",
+            "id": 3
+        }
+    ]
+}}

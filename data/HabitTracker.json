@@ -1,0 +1,22 @@
+{"HabitTracker": {
+    "goodHabits": [{
+        "note": "Get enough sleep",
+        "priorityLevel": "LOW",
+        "name": "Sleep",
+        "id": 0
+    }],
+    "badHabits": [
+        {
+            "note": "None",
+            "priorityLevel": "MEDIUM",
+            "name": "BadB",
+            "id": 0
+        },
+        {
+            "note": "No notes",
+            "priorityLevel": "HIGH",
+            "name": "BadC",
+            "id": 1
+        }
+    ]
+}}
